@@ -2,9 +2,9 @@
   "name": "circleci-docker",
   "version": "1.0.0",
   "description": "Implementing docker and circle CI",
-  "main": "test.js",
+  "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "test.js"
   },
   "repository": {
     "type": "git",
