@@ -1,8 +1,8 @@
 {
   "name": "circleci-docker",
   "version": "1.0.0",
-  "description": "testing team building projects with circleci & docker",
-  "main": "index.js",
+  "description": "Implementing docker and circle CI",
+  "main": "test.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
